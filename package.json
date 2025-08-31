@@ -1,0 +1,14 @@
+{
+  "name": "tennis-qr-scanner",
+  "version": "1.0.0",
+  "description": "Tennis Court QR Scanner for Vercel",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["tennis", "qr", "scanner", "vercel"],
+  "author": "Tennis Bot",
+  "license": "MIT"
+}
